@@ -1,0 +1,15 @@
+.venv/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+CACHEDIR.TAG
+
+.idea/
+
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.log
